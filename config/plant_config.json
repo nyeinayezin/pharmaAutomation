@@ -1,0 +1,38 @@
+{
+    "plant": {
+        "name": "Pharmaceutical Process Simulator"
+    },
+
+    "tanks": {
+        "Tank_A": {
+            "name": "Tank A",
+            "capacity_l": 5000,
+            "initial_volume_l": 3250,
+            "initial_temperature_c": 20
+        },
+
+        "Tank_B": {
+            "name": "Tank B",
+            "capacity_l": 5000,
+            "initial_volume_l": 1500,
+            "initial_temperature_c": 20
+        },
+
+        "Tank_C": {
+            "name": "Tank C",
+            "capacity_l": 3000,
+            "initial_volume_l": 1000,
+            "initial_temperature_c": 20
+        }
+    },
+
+    "valves": {
+        "XV_A_OUT": {
+            "name": "XV_A_OUT"
+        },
+
+        "XV_B_IN": {
+            "name": "XV_B_IN"
+        }
+    }
+}
